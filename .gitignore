@@ -1,0 +1,5 @@
+auth.json
+screenshots/
+.venv/
+__pycache__/
+browser_profile/
